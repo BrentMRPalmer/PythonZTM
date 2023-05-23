@@ -1,0 +1,9 @@
+Error Handling
+
+Exception: an error that crashes a program
+We say that Python "raises an exception"
+
+Error handling allows the Python script
+to continue running even if there are errors
+
+TypeError, NameError, IndexError, KeyError, ZeroDivisionError, etc.

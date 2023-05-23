@@ -1,0 +1,24 @@
+Functional Programming
+
+Functional programming is another paradigm (a way of thinking and organizing code).
+Some of the concepts are different than OOP.
+You don't necessarily need to use OOP or functional - you can use a hybrid.
+
+What is Functional Programming?
+Functional programming is about packaging our code into separate chunks. Each
+part is organized based on functionality. Each part concerns itself with one
+thing that it is good at. Data and functions are separate unlike in OOP. 
+Generally, functional languages have an emphasis on simplicity of data 
+and functions. Functions operate on well-defined data structures rather than
+belonging that data structure to a class. 
+
+The goals are:
+1) Clear and understandable
+2) Easy to extend
+3) Easy to maintain
+4) Memory efficient
+5) DRY
+
+Main pillar: pure functions
+There is a separation between the data of a program
+and the behaviour of a program. 

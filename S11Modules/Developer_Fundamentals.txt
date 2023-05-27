@@ -1,0 +1,9 @@
+Developer Fundamentals
+
+It is not always the best to use packages and libraries.
+Sometimes they were not implemented the most efficiently.
+Sometimes they take up more space than they are worth. 
+
+
+They are best used when you do not have expertise in the area, or you
+can trust that they are reliable and efficient.

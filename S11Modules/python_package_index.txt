@@ -1,0 +1,9 @@
+Python Package Index
+
+pip install is very powerful
+Makes it such that we don't need to "reinvent the wheel"
+Allows for us to reuse work from others and fasttrack projects
+
+pypi.org is the python package index
+This resource allows us to find packages that we can
+implement into our own projects. 

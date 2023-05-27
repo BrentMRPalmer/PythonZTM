@@ -1,0 +1,12 @@
+# Modules
+
+# How to organize code (so far)
+# 1) Files
+# 2) Functions in files 
+# 3) Classes 
+# 4) Functional Programming
+
+# We cannot just have one file with millions of lines of codes
+# We must spit it up into multiple files
+# Modules are used to organize code and link the files
+# Each .py file is a module

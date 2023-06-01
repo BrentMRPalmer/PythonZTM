@@ -1,0 +1,18 @@
+Now What?
+
+Large jump -> learning how to apply the knowledge about the language
+
+Use Python where a machine could do it faster than a human
+Good for repetitive tasks
+
+Stuff you can do with Python:
+Web Development
+Image Prcessing
+Emails
+SMS
+Twitter Bots
+Data Visualization
+Data Scraping
+General Scripting
+Automation
+File Processing

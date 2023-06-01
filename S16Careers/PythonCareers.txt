@@ -1,0 +1,11 @@
+Python Careers
+
+What can you do with Python in terms of employment?
+ -Software Engineer (Code to solve real world problems)
+ -Python Developer (Solves problems a company has with Python)
+ -Research Analyst (Uses Python to analyze data)
+ -Data Analyst (Uses Python to analyze data)
+ -Data Scientist (Uses Python to analyze data and strong math background)
+ -Backend Developer (Develop APIs)
+ -Testing/Automation (Testing a website or app)
+ -Machine Learning (Create models that can predict or create something useful)

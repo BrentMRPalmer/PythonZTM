@@ -1,0 +1,9 @@
+Testing
+
+Large projects require a system for testing code
+Harder to find bugs in huge projects
+
+Individual units of source code are tested
+to determine whether they work properly
+
+Normally each module (file) has its own test file

@@ -1,0 +1,5 @@
+Scripting
+
+Scripting means writing scripts to get the machine to do something.
+
+This section is all about "making our lives easier."

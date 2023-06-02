@@ -1,0 +1,6 @@
+Image Processing
+
+What is it?
+For example, compressing an image, cropping an image, putting filters, etc.
+
+Python has libraries for image processing. 

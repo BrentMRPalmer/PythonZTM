@@ -1,0 +1,5 @@
+Developer Fundamentals VII
+
+Pick the right libary.
+Make sure to take the latest most modern library, and it is
+the one that is most commonly used. 

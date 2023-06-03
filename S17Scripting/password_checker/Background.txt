@@ -1,0 +1,8 @@
+Password Checker
+
+Have I Been Pwned? 
+Checks if an email has been part of a data breach
+or if a password has been part of a data breach
+
+Hackers take email and passwords from large lists
+and try to login by brute force until one works

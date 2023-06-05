@@ -1,0 +1,8 @@
+Web Scraping and APIs
+
+People don't want others to be able to copy their websites.
+
+/robots.txt lets us see what we are allowed to scrape on a website. 
+
+API (Application Programming Interface)
+A way for a website to share data

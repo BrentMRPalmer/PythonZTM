@@ -1,0 +1,6 @@
+Web Scraping Introduction
+
+Web scraping means programatically grabbing data from a website.
+
+Browser asks server to return JS, HTML, and CSS files for the page.
+We can access the data in these files. 

@@ -1,0 +1,7 @@
+Our Hacker News Project
+
+We will build a tool using webscraping that will 
+remove all the stories that have less than 100 points
+so we can focus on the important news articles.
+
+We will use a tool called Beautiful Soup (a library).

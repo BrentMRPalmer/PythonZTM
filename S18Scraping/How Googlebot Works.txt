@@ -1,0 +1,13 @@
+How Googlebot Works
+
+Google wants a database of all of the websites.
+
+Googlebot is what is used to crawl the web and create the database.
+
+Robots.txt
+If a page is not mentioned, it is allowed
+
+Not allowed: folder1
+Allowed: folder1/folder2
+
+Means the subfolder is allowed

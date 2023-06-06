@@ -1,0 +1,8 @@
+How Websites Work
+
+             ----------requests website--------->                  
+Browser                                               Server
+            <--------returns html, JS, CSS-------
+
+The browser and server communicate using http/https
+http and https are protocols

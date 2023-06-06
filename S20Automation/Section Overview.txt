@@ -1,0 +1,8 @@
+Section Overview (Testing and Automation)
+
+Possible career opportunity. 
+Companies will hire people to test software.
+
+Companies can automate testing to elminiate the need
+to hire thousands of employees.
+s

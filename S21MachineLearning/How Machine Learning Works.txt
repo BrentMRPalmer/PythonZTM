@@ -1,0 +1,14 @@
+How Machine Learning Works
+
+How do you teach a computer something like "what is a snake"?
+
+With machine learning, you can teach a computer to roughly understand
+what a snake is. 
+
+In normal code we give the computer an input, and write a function, and 
+the computer gives the output.
+
+In machine learning, we give the input and the output, and then the 
+machine determines the algorithm (function/model/bot/brain) to produce this. 
+
+To train the machine, we need to give it lots and lots of data.

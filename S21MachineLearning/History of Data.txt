@@ -1,0 +1,23 @@
+History of Data
+
+Why do we need machine learning?
+
+Think of a business: most innovations are for businesses.
+
+Spreadsheets were originally used to store data and make analyzing 
+data more efficient.
+
+With more data, relational databases were created. Allows us to 
+use a language (SQL) to read and write data to a database, and also
+use the data from the business to make business decisions.
+
+Then in the early 2000s the term "Big Data" became mainstream, with large
+corporations having extremely large quantities of data. These companies
+could not simply store all the data in spreadsheets. 
+Sometimes the data was really unstructured and messy, so NoSQL and mongoDB 
+were created for this type of data. 
+
+Afterwards, Machine Learning has become relevant. Now we have so much
+data that as humans we cannot look at it ourselves. We need to 
+automate the process by using machines. The improvements of CPUs and GPUs
+made machine learning possible.

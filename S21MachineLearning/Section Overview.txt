@@ -1,0 +1,6 @@
+Section Overview (Machine Learning and Data Science)
+
+Computers are really good at clearly defined rules and steps.
+Computers are not good at things that don't have clearly defined rules.
+
+Machine learning tackles this problem. 

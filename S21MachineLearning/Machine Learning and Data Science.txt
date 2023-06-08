@@ -1,0 +1,16 @@
+Machine Learning and Data Science
+
+Machine learning is a subset of AI, and a superset of deep learning.
+Machine learning is related to data science.
+
+General AI - AI that is good at more than one thing.
+
+Machine learning is an approach to achieve AI using computers.
+The goal is to get computers to do things without being told 
+explicitly what to do.
+
+Deep learning is a subset of machine learning. It is a technique 
+that can be used to implement machine learning. Consider it a type
+of machine learning.
+
+Data science simply means analyzing data. 

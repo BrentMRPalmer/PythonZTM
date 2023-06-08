@@ -1,0 +1,23 @@
+Types of Machine Learning
+
+What is machine learning?
+We are able to use machines to predict results based on incoming data.
+
+Here are three main categories:
+1) Supervised: 
+	The data that we receive already has categories. The 
+	data is already labeled so we know if our function
+	is right or wrong. We can do things like classification.
+	We might do something called regression. 
+
+2) Unsupervised:
+	The data we receive does not have labels. Clustering can
+	be used to create the groups/labels. The machine decides
+	the groups. Association rule learning associates things 
+	together based on high samples of inputs.
+
+3) Reinforcement:
+	All about teaching machines through trial and error, rewards
+	and punishment. For example, teaching a game by doing it
+	over and over again and being rewarded for good results.
+	Considered skill acquisition and real time learning.

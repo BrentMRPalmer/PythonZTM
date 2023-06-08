@@ -1,0 +1,7 @@
+Machine Learning 101
+1 - Import the data
+2 - Clean the data
+3 - Split the data (training set and test set)
+4 - Create a model (usually import an algorithm)
+5 - Check the output
+6 - Improve
